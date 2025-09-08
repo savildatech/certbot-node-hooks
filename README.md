@@ -13,7 +13,8 @@ name.com hooks for certbot DNS written in JS
 sudo su
 apt update
 apt upgrade -y
-apt install -y n git python3-certbot
+apt install -y npm git python3-certbot
+npm i -g n
 n lts
 mkdir -p /opt/certbot-node-hooks/
 cd /opt/certbot-node-hooks/
