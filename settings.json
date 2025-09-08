@@ -1,0 +1,6 @@
+{
+  "name_com_user": "username",
+  "name_com_token": "e6c0a46f5c38699fb168f2386ac5b422",
+  "wait_duration_seconds": "30",
+  "log_file_location": "/root/certbot_output.txt"
+}
