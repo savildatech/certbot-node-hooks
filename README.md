@@ -14,4 +14,4 @@ mkdir -p /opt/certbot-node-hooks/
 cd /opt/certbot-node-hooks/
 git clone https://github.com/savildatech/certbot-node-hooks.git .
 ```
-edit the ```settings.json``` file with your name.com username and token information
+update ```settings.json``` and ```run_certbot.sh``` files with your information
