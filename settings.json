@@ -2,5 +2,5 @@
   "name_com_user": "username",
   "name_com_token": "e6c0a46f5c38699fb168f2386ac5b422",
   "wait_duration_seconds": "30",
-  "log_file_location": "/opt/certbot-node-hooks/certbot_output.txt"
+  "log_file_location": "/var/log/certbot_node_hooks.log"
 }

@@ -7,7 +7,6 @@ const {
   CERTBOT_VALIDATION,
   wait_duration_seconds,
 } = require("./helper");
-const { json } = require("stream/consumers");
 
 (async () => {
   const { baseDomain, subDomain, hostTxtRecord } = await getDomainInfo();
