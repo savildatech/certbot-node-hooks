@@ -3,7 +3,7 @@
 - Certbot
 - Name.com domain with API token
 
-***Recommended installation (Debian 12/13)***
+***Recommended installation (Debian/Ubuntu)***
 ```bash
 sudo su
 apt update
