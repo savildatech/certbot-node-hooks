@@ -10,7 +10,7 @@ apt update
 apt upgrade -y
 apt install -y n git python3-certbot
 n lts
-mkdir -p /opt/certbot/
-cd /opt/certbot/
+mkdir -p /opt/certbot-node-hooks/
+cd /opt/certbot-node-hooks/
 git clone https://github.com/savildatech/certbot-node-hooks.git .
 ```
